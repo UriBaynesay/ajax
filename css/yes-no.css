@@ -18,6 +18,10 @@ header{
     text-align: center;
 }
 
+nav a{
+    text-decoration: none;
+}
+
 form{
     font-size: 2rem;
 }

@@ -16,6 +16,10 @@ body{
     text-align: center;
 }
 
+nav a{
+    text-decoration: none;
+}
+
 .teams-container{
     grid-template-columns: repeat(auto-fill,minmax(150px,1fr));
     padding: 50px 80px;
