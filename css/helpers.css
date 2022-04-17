@@ -3,3 +3,13 @@
 .grid{
     display: grid;
 }
+
+/* Flex */
+
+.flex{
+    display: flex;
+}
+
+.flex.col{
+    flex-direction: column;
+}
